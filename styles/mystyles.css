@@ -1,0 +1,42 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: black;
+}
+.center {
+    text-align: center;
+    display: block;
+    margin-right: 250px;
+    margin-left: 250px;
+    margin-top: 35 px;
+    margin-bottom: 35 px;
+  }
+}
+.right {
+    text-align: right;
+    margin: auto;
+}
+
+mytitle {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30 px;
+    color: #94b5f7
+}
+
+.mymargin {
+    margin: 35 px;
+}
+
+.caption {
+    font-style:italic;
+}
+
+.myrow {
+    display: flex;
+  }
+  
+  .mycolumn {
+    flex: 33%;
+    padding: 5px;
+
+
